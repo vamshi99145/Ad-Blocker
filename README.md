@@ -17,4 +17,6 @@ step4: Pin this chrome Extension....Good to go
 
 Overview will look like this:
 
-![Screenshot (805)](https://github.com/vamshi99145/Ad-Blocker/assets/77665988/21fae4ed-116b-4847-bb7d-39268f91d61b)
+![Adblocker](https://github.com/vamshi99145/Ad-Blocker/assets/77665988/df4f7c22-f67c-49b9-9a4e-f0a465736e50)
+
+
