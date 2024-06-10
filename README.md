@@ -3,7 +3,7 @@
 
 How to run?
 
-Clone it from : 
+Clone it from : https://github.com/vamshi99145/Ad-Blocker.git
 
 
 step1: Go to chrome browser open extensions-> Manage chrome Extensions
