@@ -3,3 +3,15 @@
 
 How to run?
 
+Clone it from : 
+
+
+step1: Go to chrome browser open extensions-> Manage chrome Extensions
+
+step2: On developer mode
+
+step2: upload clone repo folder in Load unpacked 
+
+step4: Pin this chrome Extension....Good to go
+
+
